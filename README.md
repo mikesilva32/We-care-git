@@ -10,3 +10,5 @@
 <p align="center"> <img  src="https://cdn-icons-png.flaticon.com/128/888/888859.png" alt="html-logo" width="50px"/>
 <img  src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" alt="css-logo" width="50px" />
 </p>
+<br>
+<img src="https://github.com/mikesilva32/We-care-git/blob/master/img/image.redimewe-care.png?raw=true" alt="descktop-logo"/>
